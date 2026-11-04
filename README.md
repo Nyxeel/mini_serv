@@ -1,7 +1,5 @@
 # mini_serv
 
-*This project has been created as part of the 42 curriculum by pjelinek.*
-
 ## Description
 
 `mini_serv` is a minimal chat server written in C. It listens on `127.0.0.1` on a given port and lets multiple clients connect and talk to each other in real time over TCP.
@@ -74,5 +72,4 @@ Everything typed in one terminal appears in all the others, prefixed with the se
 ### AI Usage
 
 AI was used to write this README.
-
 All generated content was reviewed before use.
